@@ -1,0 +1,14 @@
+# Ignore waveform files
+*.vcd
+
+# Ignore compiled simulation executables
+*_tb
+*.out
+*.exe
+
+# Ignore log and temporary files
+*.log
+*.tmp
+
+# Ignore VS Code workspace settings
+.vscode/
